@@ -1,0 +1,3 @@
+Average Bleu score: 44.3093
+Average Meteor score: 56.8159
+Delta Bleu score: 44.2133

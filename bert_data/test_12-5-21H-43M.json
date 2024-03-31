@@ -1,0 +1,2029 @@
+[
+  {
+    "object_category": "man",
+    "images": [
+      {
+        "VG_image_id": "2414109",
+        "VG_object_id": "159772",
+        "bbox": [118, 38, 392, 394],
+        "image": "data/images/2414109.jpg"
+      },
+      {
+        "VG_image_id": "2331516",
+        "VG_object_id": "2756072",
+        "bbox": [201, 245, 302, 430],
+        "image": "data/images/2331516.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many people are there", 2],
+      ["what color is the skier's shirt", 1]
+    ],
+    "context": ["a man on a skateboard", "a man doing a trick on a skateboard"]
+  },
+  {
+    "object_category": "necktie",
+    "images": [
+      {
+        "VG_image_id": "2364171",
+        "VG_object_id": "1767453",
+        "bbox": [209, 148, 280, 203],
+        "image": "data/images/2364171.jpg"
+      },
+      {
+        "VG_image_id": "2414170",
+        "VG_object_id": "158558",
+        "bbox": [180, 253, 254, 418],
+        "image": "data/images/2414170.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["where is the photo taken", 2],
+      ["what color is the tie", 1],
+      ["what is the man holding in hands", 1],
+      ["what is the man doing", 1],
+      ["What is man holding", 1],
+      ["what is on the man's face", 1]
+    ],
+    "context": ["a man walking down the street", "man sitting in a green chair"]
+  },
+  {
+    "object_category": "rug",
+    "images": [
+      {
+        "VG_image_id": "2361982",
+        "VG_object_id": "778090",
+        "bbox": [5, 327, 498, 375],
+        "image": "data/images/2361982.jpg"
+      },
+      {
+        "VG_image_id": "2384435",
+        "VG_object_id": "526732",
+        "bbox": [2, 207, 498, 377],
+        "image": "data/images/2384435.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many people are there on the rug", 2],
+      ["how many people are there in the picture", 2],
+      ["what color is the rug", 1],
+      ["what is on the rug", 1],
+      ["where is the photo taken", 1],
+      ["where was this picture taken", 1]
+    ],
+    "context": ["a large green bag", "a grand piano"]
+  },
+  {
+    "object_category": "woman",
+    "images": [
+      {
+        "VG_image_id": "2356202",
+        "VG_object_id": "822614",
+        "bbox": [1, 0, 131, 412],
+        "image": "data/images/2356202.jpg"
+      },
+      {
+        "VG_image_id": "2373499",
+        "VG_object_id": "2686808",
+        "bbox": [136, 10, 245, 183],
+        "image": "data/images/2373499.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["where is the woman", 2],
+      ["what is the woman doing", 2],
+      ["what is the woman wearing", 1],
+      ["How many people are there", 1],
+      ["what is in the background", 1],
+      ["what is the woman holding", 1],
+      ["when was the photo taken", 1]
+    ],
+    "context": [
+      "a woman and a child",
+      "a group of people riding on the back of a boat"
+    ]
+  },
+  {
+    "object_category": "land",
+    "images": [
+      {
+        "VG_image_id": "2375303",
+        "VG_object_id": "722913",
+        "bbox": [0, 206, 500, 374],
+        "image": "data/images/2375303.jpg"
+      },
+      {
+        "VG_image_id": "2409574",
+        "VG_object_id": "238882",
+        "bbox": [9, 128, 199, 228],
+        "image": "data/images/2409574.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is the animal in the picture", 2],
+      ["what is on the land", 1],
+      ["When is the photo taken", 1],
+      ["what time is it", 1],
+      ["what type of animal is shown", 1],
+      ["when was this picture taken", 1]
+    ],
+    "context": [
+      "two bulls laying on the ground",
+      "a black bear is walking on a bridge"
+    ]
+  },
+  {
+    "object_category": "clock",
+    "images": [
+      {
+        "VG_image_id": "2387975",
+        "VG_object_id": "676183",
+        "bbox": [326, 136, 444, 274],
+        "image": "data/images/2387975.jpg"
+      },
+      {
+        "VG_image_id": "2322918",
+        "VG_object_id": "3332708",
+        "bbox": [29, 0, 309, 499],
+        "image": "data/images/2322918.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many clocks are there", 1],
+      ["what color is the clock", 1]
+    ],
+    "context": ["a statue of a bird", "a clock with a gold frame"]
+  },
+  {
+    "object_category": "land",
+    "images": [
+      {
+        "VG_image_id": "2372331",
+        "VG_object_id": "592484",
+        "bbox": [2, 160, 328, 431],
+        "image": "data/images/2372331.jpg"
+      },
+      {
+        "VG_image_id": "2393896",
+        "VG_object_id": "3824386",
+        "bbox": [139, 314, 395, 485],
+        "image": "data/images/2393896.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the ground", 2],
+      ["What animal are there", 1],
+      ["what shape is the floor", 1]
+    ],
+    "context": [
+      "a cat is laying on the floor in a living room",
+      "man wearing black shirt"
+    ]
+  },
+  {
+    "object_category": "street",
+    "images": [
+      {
+        "VG_image_id": "2367573",
+        "VG_object_id": "2336146",
+        "bbox": [3, 214, 498, 329],
+        "image": "data/images/2367573.jpg"
+      },
+      {
+        "VG_image_id": "2398533",
+        "VG_object_id": "1178888",
+        "bbox": [145, 143, 499, 374],
+        "image": "data/images/2398533.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is on the street", 1],
+      ["how many people are there in the street", 1],
+      ["what is beside the road", 1],
+      ["how many trucks are there on the street", 1],
+      ["where was the photo taken", 1]
+    ],
+    "context": [
+      "a red tractor",
+      "a group of people riding bikes on a city street"
+    ]
+  },
+  {
+    "object_category": "screen",
+    "images": [
+      {
+        "VG_image_id": "2319893",
+        "VG_object_id": "3228825",
+        "bbox": [121, 230, 231, 309],
+        "image": "data/images/2319893.jpg"
+      },
+      {
+        "VG_image_id": "2343788",
+        "VG_object_id": "3111704",
+        "bbox": [48, 74, 220, 180],
+        "image": "data/images/2343788.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["What color is the laptop", 2],
+      ["What color is the table", 2]
+    ],
+    "context": [
+      "a living room with a couch, television, and a coffee table",
+      "a computer on a desk"
+    ]
+  },
+  {
+    "object_category": "person",
+    "images": [
+      {
+        "VG_image_id": "2345295",
+        "VG_object_id": "2150452",
+        "bbox": [115, 58, 270, 330],
+        "image": "data/images/2345295.jpg"
+      },
+      {
+        "VG_image_id": "2358601",
+        "VG_object_id": "3543873",
+        "bbox": [102, 129, 295, 342],
+        "image": "data/images/2358601.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what sport is the person doing", 1],
+      ["what is the man holding", 1],
+      ["what is the ground covered with", 1],
+      ["what is the man on the left doing", 1],
+      ["what is the persion standing on", 1]
+    ],
+    "context": ["a man holding a bat", "a man doing a trick on a skateboard"]
+  },
+  {
+    "object_category": "table",
+    "images": [
+      {
+        "VG_image_id": "2322081",
+        "VG_object_id": "993612",
+        "bbox": [6, 56, 480, 374],
+        "image": "data/images/2322081.jpg"
+      },
+      {
+        "VG_image_id": "2327135",
+        "VG_object_id": "2965135",
+        "bbox": [8, 165, 466, 280],
+        "image": "data/images/2327135.jpg"
+      }
+    ],
+    "questions_with_scores": [["what color is the table", 1]],
+    "context": [
+      "a table with a white cloth",
+      "a table with a silver tray on it"
+    ]
+  },
+  {
+    "object_category": "trouser",
+    "images": [
+      {
+        "VG_image_id": "2345154",
+        "VG_object_id": "2390017",
+        "bbox": [185, 193, 312, 331],
+        "image": "data/images/2345154.jpg"
+      },
+      {
+        "VG_image_id": "2397022",
+        "VG_object_id": "1193459",
+        "bbox": [30, 155, 115, 306],
+        "image": "data/images/2397022.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the trousers", 2],
+      ["what is the person holding", 1],
+      ["what is the persion doing", 1],
+      ["what is the persion wearing", 1]
+    ],
+    "context": ["a woman walking down the street", "a man wearing a helmet"]
+  },
+  {
+    "object_category": "land",
+    "images": [
+      {
+        "VG_image_id": "2338641",
+        "VG_object_id": "953492",
+        "bbox": [1, 95, 499, 331],
+        "image": "data/images/2338641.jpg"
+      },
+      {
+        "VG_image_id": "2384604",
+        "VG_object_id": "525657",
+        "bbox": [0, 169, 500, 410],
+        "image": "data/images/2384604.jpg"
+      }
+    ],
+    "questions_with_scores": [["what is the weather like", 2]],
+    "context": ["a man standing on the street", "a man walking in the rain"]
+  },
+  {
+    "object_category": "man",
+    "images": [
+      {
+        "VG_image_id": "2397533",
+        "VG_object_id": "433126",
+        "bbox": [65, 8, 467, 313],
+        "image": "data/images/2397533.jpg"
+      },
+      {
+        "VG_image_id": "2345241",
+        "VG_object_id": "909701",
+        "bbox": [378, 22, 489, 225],
+        "image": "data/images/2345241.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is the man doing", 1],
+      ["what color is the man's shirt", 1],
+      ["what is on the man's head", 1],
+      ["what is the man wearing on his face", 1],
+      ["what is the man wearing on the head", 1]
+    ],
+    "context": ["a man kicking a soccer ball", "a man throwing a frurd frck"]
+  },
+  {
+    "object_category": "sofa",
+    "images": [
+      {
+        "VG_image_id": "2412420",
+        "VG_object_id": "3345290",
+        "bbox": [68, 176, 495, 321],
+        "image": "data/images/2412420.jpg"
+      },
+      {
+        "VG_image_id": "2328590",
+        "VG_object_id": "3476474",
+        "bbox": [0, 86, 500, 331],
+        "image": "data/images/2328590.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the sofa", 2],
+      ["how many people are wearing glasses", 2],
+      ["what color is the background", 1],
+      ["what color is the pillow on the couch", 1]
+    ],
+    "context": [
+      "two men playing a video game",
+      "three children sitting on a couch"
+    ]
+  },
+  {
+    "object_category": "counter",
+    "images": [
+      {
+        "VG_image_id": "2369120",
+        "VG_object_id": "2478049",
+        "bbox": [210, 130, 398, 165],
+        "image": "data/images/2369120.jpg"
+      },
+      {
+        "VG_image_id": "2370743",
+        "VG_object_id": "1890101",
+        "bbox": [3, 287, 139, 357],
+        "image": "data/images/2370743.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color are the cabinets", 2],
+      ["what color is the counter", 1]
+    ],
+    "context": [
+      "a kitchen with a stove and a microwave",
+      "a kitchen with a stove, sink, and refrigerator"
+    ]
+  },
+  {
+    "object_category": "building",
+    "images": [
+      {
+        "VG_image_id": "2328522",
+        "VG_object_id": "3098722",
+        "bbox": [353, 25, 430, 79],
+        "image": "data/images/2328522.jpg"
+      },
+      {
+        "VG_image_id": "2334206",
+        "VG_object_id": "3143446",
+        "bbox": [112, 1, 498, 195],
+        "image": "data/images/2334206.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the building", 1],
+      ["what is in front of the building", 1],
+      ["how many people are there", 1],
+      ["what kind of vehicles are there in front of the building", 1],
+      ["what is on the ground", 1]
+    ],
+    "context": ["the train is red", "a white horse"]
+  },
+  {
+    "object_category": "bed",
+    "images": [
+      {
+        "VG_image_id": "2366034",
+        "VG_object_id": "2268942",
+        "bbox": [62, 51, 499, 373],
+        "image": "data/images/2366034.jpg"
+      },
+      {
+        "VG_image_id": "2333799",
+        "VG_object_id": "966645",
+        "bbox": [47, 69, 410, 282],
+        "image": "data/images/2333799.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is the persion doing", 1],
+      ["how many people are there", 1]
+    ],
+    "context": ["a woman sitting on a bed", "a bed with a white comforter"]
+  },
+  {
+    "object_category": "field",
+    "images": [
+      {
+        "VG_image_id": "2357187",
+        "VG_object_id": "1737029",
+        "bbox": [0, 157, 500, 373],
+        "image": "data/images/2357187.jpg"
+      },
+      {
+        "VG_image_id": "2368292",
+        "VG_object_id": "2328819",
+        "bbox": [2, 45, 497, 332],
+        "image": "data/images/2368292.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["How many animals are there", 2],
+      ["what is in the distance", 1],
+      ["What kind of animal is it", 1]
+    ],
+    "context": ["a clear blue sky", "the sheep is white"]
+  },
+  {
+    "object_category": "building",
+    "images": [
+      {
+        "VG_image_id": "2397472",
+        "VG_object_id": "1189681",
+        "bbox": [38, 3, 371, 214],
+        "image": "data/images/2397472.jpg"
+      },
+      {
+        "VG_image_id": "2348163",
+        "VG_object_id": "884406",
+        "bbox": [6, 0, 256, 133],
+        "image": "data/images/2348163.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many people are there in the picture", 2],
+      ["how many elephants are there in the picture", 2],
+      ["what is the main color of the building", 1],
+      ["what color is the shirt of the person in front of the building", 1],
+      ["what is the gender of the person in front of the building", 1],
+      ["How many people are there", 1]
+    ],
+    "context": [
+      "a woman walking down a street with a umbrella",
+      "a man riding an elephant"
+    ]
+  },
+  {
+    "object_category": "bottle",
+    "images": [
+      {
+        "VG_image_id": "2336080",
+        "VG_object_id": "2276016",
+        "bbox": [98, 104, 155, 217],
+        "image": "data/images/2336080.jpg"
+      },
+      {
+        "VG_image_id": "2348487",
+        "VG_object_id": "2505665",
+        "bbox": [12, 163, 76, 253],
+        "image": "data/images/2348487.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the bottle", 2],
+      ["what color is table is the bottle put on", 2],
+      ["what color is the table under the bottle", 2],
+      ["how many laptops are there on the table", 2],
+      ["Where is the photo taken", 1],
+      ["what is behind the bottle", 1],
+      ["what is the white object", 1]
+    ],
+    "context": ["a white desk", "a man eating food"]
+  },
+  {
+    "object_category": "zebra",
+    "images": [
+      {
+        "VG_image_id": "2383640",
+        "VG_object_id": "1318891",
+        "bbox": [101, 166, 365, 260],
+        "image": "data/images/2383640.jpg"
+      },
+      {
+        "VG_image_id": "2357302",
+        "VG_object_id": "2142259",
+        "bbox": [113, 94, 449, 291],
+        "image": "data/images/2357302.jpg"
+      }
+    ],
+    "questions_with_scores": [["How many zebras are there", 2]],
+    "context": ["a group of zebras", "a zebra grazing in a field"]
+  },
+  {
+    "object_category": "bed",
+    "images": [
+      {
+        "VG_image_id": "2326695",
+        "VG_object_id": "3266514",
+        "bbox": [19, 90, 445, 371],
+        "image": "data/images/2326695.jpg"
+      },
+      {
+        "VG_image_id": "2363786",
+        "VG_object_id": "2534605",
+        "bbox": [125, 125, 444, 312],
+        "image": "data/images/2363786.jpg"
+      }
+    ],
+    "questions_with_scores": [["how many windows are in the picture", 1]],
+    "context": ["a bed with a white comforter", "a hotel room"]
+  },
+  {
+    "object_category": "umbrella",
+    "images": [
+      {
+        "VG_image_id": "2341151",
+        "VG_object_id": "2722843",
+        "bbox": [156, 45, 483, 161],
+        "image": "data/images/2341151.jpg"
+      },
+      {
+        "VG_image_id": "2408976",
+        "VG_object_id": "649297",
+        "bbox": [66, 32, 323, 162],
+        "image": "data/images/2408976.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["How many umbrellas are there", 2],
+      ["What color is the umbrella", 2],
+      ["When is photo taken", 1],
+      ["what is the persion holding", 1]
+    ],
+    "context": ["a man in a white car", "a man holding an umbrella"]
+  },
+  {
+    "object_category": "man",
+    "images": [
+      {
+        "VG_image_id": "2366167",
+        "VG_object_id": "2675757",
+        "bbox": [99, 130, 221, 182],
+        "image": "data/images/2366167.jpg"
+      },
+      {
+        "VG_image_id": "2352894",
+        "VG_object_id": "1863412",
+        "bbox": [136, 114, 235, 222],
+        "image": "data/images/2352894.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is the man doing", 2],
+      ["how many people are there", 2],
+      ["what color is the man's trousers", 1],
+      ["what is the ground covered with", 1],
+      ["what is the man riding", 1],
+      ["where is the man", 1]
+    ],
+    "context": ["a road sign on a pile of dirt", "a snowboarder in the air"]
+  },
+  {
+    "object_category": "basket",
+    "images": [
+      {
+        "VG_image_id": "2344488",
+        "VG_object_id": "3198800",
+        "bbox": [204, 68, 406, 237],
+        "image": "data/images/2344488.jpg"
+      },
+      {
+        "VG_image_id": "2412912",
+        "VG_object_id": "2293312",
+        "bbox": [322, 89, 497, 331],
+        "image": "data/images/2412912.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the fruit", 1],
+      ["what kind of fruit are they", 1],
+      ["what fruit is in the photo", 1],
+      ["what type of fruit is in the picture", 1],
+      ["what type of fruit is shown", 1]
+    ],
+    "context": ["a display of apples", "a pile of oranges"]
+  },
+  {
+    "object_category": "pillow",
+    "images": [
+      {
+        "VG_image_id": "2368658",
+        "VG_object_id": "616781",
+        "bbox": [313, 182, 367, 251],
+        "image": "data/images/2368658.jpg"
+      },
+      {
+        "VG_image_id": "2349084",
+        "VG_object_id": "3601213",
+        "bbox": [93, 103, 153, 153],
+        "image": "data/images/2349084.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["Where is the pillow", 2],
+      ["where are the pillows", 2],
+      ["What color is the wall", 1],
+      ["Where is the photo taken", 1],
+      ["what is the pillow on", 1],
+      ["where is the pillow placed on", 1],
+      ["what room is this", 1]
+    ],
+    "context": [
+      "a bed with a quilt",
+      "a living room with a couch and a fire place"
+    ]
+  },
+  {
+    "object_category": "woman",
+    "images": [
+      {
+        "VG_image_id": "2385521",
+        "VG_object_id": "687499",
+        "bbox": [280, 162, 403, 367],
+        "image": "data/images/2385521.jpg"
+      },
+      {
+        "VG_image_id": "2325189",
+        "VG_object_id": "3073355",
+        "bbox": [184, 68, 319, 294],
+        "image": "data/images/2325189.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many persons are in the picture", 2],
+      ["what are the people doing", 2],
+      ["How many people are there", 1],
+      ["What color is woman's shirt", 1],
+      ["What is woman holding", 1],
+      ["what is the woman's posture", 1],
+      ["What is the woman holding", 1],
+      ["where are the people", 1]
+    ],
+    "context": [
+      "a group of people standing outside of a building",
+      "a row of motorcycles"
+    ]
+  },
+  {
+    "object_category": "floor",
+    "images": [
+      {
+        "VG_image_id": "2379915",
+        "VG_object_id": "1352778",
+        "bbox": [4, 336, 303, 500],
+        "image": "data/images/2379915.jpg"
+      },
+      {
+        "VG_image_id": "2328626",
+        "VG_object_id": "3697372",
+        "bbox": [95, 167, 493, 279],
+        "image": "data/images/2328626.jpg"
+      }
+    ],
+    "questions_with_scores": [["what color is the wall", 2]],
+    "context": [
+      "a bathroom with a toilet and a sink",
+      "a bathroom with a sink and a toilet"
+    ]
+  },
+  {
+    "object_category": "floor",
+    "images": [
+      {
+        "VG_image_id": "2402083",
+        "VG_object_id": "1140482",
+        "bbox": [0, 235, 498, 367],
+        "image": "data/images/2402083.jpg"
+      },
+      {
+        "VG_image_id": "2376437",
+        "VG_object_id": "2356447",
+        "bbox": [134, 401, 290, 499],
+        "image": "data/images/2376437.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the floor", 2],
+      ["how many chairs are there on the floor", 1],
+      ["how many people are in the picture", 1],
+      ["what room is this", 1]
+    ],
+    "context": [
+      "a man standing in a living room",
+      "a bathroom with a sink and a toilet"
+    ]
+  },
+  {
+    "object_category": "table",
+    "images": [
+      {
+        "VG_image_id": "2375192",
+        "VG_object_id": "2780736",
+        "bbox": [2, 271, 324, 499],
+        "image": "data/images/2375192.jpg"
+      },
+      {
+        "VG_image_id": "2320278",
+        "VG_object_id": "994543",
+        "bbox": [2, 393, 497, 442],
+        "image": "data/images/2320278.jpg"
+      }
+    ],
+    "questions_with_scores": [["what color is the table", 1]],
+    "context": ["a purple table", "a shelf with two small figuries"]
+  },
+  {
+    "object_category": "child",
+    "images": [
+      {
+        "VG_image_id": "2345423",
+        "VG_object_id": "908256",
+        "bbox": [245, 156, 374, 348],
+        "image": "data/images/2345423.jpg"
+      },
+      {
+        "VG_image_id": "2316419",
+        "VG_object_id": "1053989",
+        "bbox": [218, 33, 287, 234],
+        "image": "data/images/2316419.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what are the people doing", 2],
+      ["What is child doing", 2],
+      ["what is the boy holding", 1]
+    ],
+    "context": ["a child on a snowboard", "a horse wearing a colorful blanket"]
+  },
+  {
+    "object_category": "tower",
+    "images": [
+      {
+        "VG_image_id": "2416011",
+        "VG_object_id": "3226906",
+        "bbox": [30, 0, 406, 460],
+        "image": "data/images/2416011.jpg"
+      },
+      {
+        "VG_image_id": "2391126",
+        "VG_object_id": "1243738",
+        "bbox": [77, 7, 251, 473],
+        "image": "data/images/2391126.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what time is it", 2],
+      ["what color is the tower", 1],
+      ["what color is the sky", 1]
+    ],
+    "context": ["a clock on a building", "a clock tower"]
+  },
+  {
+    "object_category": "board",
+    "images": [
+      {
+        "VG_image_id": "2371906",
+        "VG_object_id": "3517852",
+        "bbox": [187, 26, 257, 106],
+        "image": "data/images/2371906.jpg"
+      },
+      {
+        "VG_image_id": "2367931",
+        "VG_object_id": "2167444",
+        "bbox": [148, 240, 298, 321],
+        "image": "data/images/2367931.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["where is the board", 1],
+      ["what is in the background", 1],
+      ["what is the board on", 1],
+      ["where was the photo taken", 1]
+    ],
+    "context": ["a metal dog statue", "a computer desk"]
+  },
+  {
+    "object_category": "kitchen",
+    "images": [
+      {
+        "VG_image_id": "2391243",
+        "VG_object_id": "490500",
+        "bbox": [0, 3, 498, 374],
+        "image": "data/images/2391243.jpg"
+      },
+      {
+        "VG_image_id": "2366129",
+        "VG_object_id": "1676584",
+        "bbox": [3, 2, 498, 329],
+        "image": "data/images/2366129.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the woman's shirt", 1],
+      ["what color is the table", 1],
+      ["what is on the counter", 1]
+    ],
+    "context": ["a woman in a kitchen", "a woman in a kitchen"]
+  },
+  {
+    "object_category": "bear",
+    "images": [
+      {
+        "VG_image_id": "2417694",
+        "VG_object_id": "2774488",
+        "bbox": [185, 115, 352, 307],
+        "image": "data/images/2417694.jpg"
+      },
+      {
+        "VG_image_id": "2365499",
+        "VG_object_id": "756761",
+        "bbox": [174, 81, 499, 367],
+        "image": "data/images/2365499.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the background", 1],
+      ["where is the bear", 1],
+      ["what is the bear doing", 1],
+      ["what is in the distance", 1],
+      ["what is the bear on", 1],
+      ["what is the bear doing in the photo", 1]
+    ],
+    "context": ["a bear in the water", "a black bear in a field of tall grass"]
+  },
+  {
+    "object_category": "horse",
+    "images": [
+      {
+        "VG_image_id": "2408027",
+        "VG_object_id": "1094841",
+        "bbox": [162, 56, 297, 307],
+        "image": "data/images/2408027.jpg"
+      },
+      {
+        "VG_image_id": "2376394",
+        "VG_object_id": "573231",
+        "bbox": [99, 78, 460, 296],
+        "image": "data/images/2376394.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is the horse doing", 1],
+      ["where is the horse standing", 1],
+      ["what is the ground covered with", 1],
+      ["what is on the side of the horse", 1]
+    ],
+    "context": [
+      "a horse running through a stream",
+      "a horse standing in a fenced area"
+    ]
+  },
+  {
+    "object_category": "shirt",
+    "images": [
+      {
+        "VG_image_id": "2327095",
+        "VG_object_id": "2983621",
+        "bbox": [294, 55, 370, 130],
+        "image": "data/images/2327095.jpg"
+      },
+      {
+        "VG_image_id": "2404783",
+        "VG_object_id": "337991",
+        "bbox": [0, 170, 228, 322],
+        "image": "data/images/2404783.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["when is this photo taken", 1],
+      ["where is this photo taken", 1],
+      ["how many people are there", 1],
+      ["what is the persion doing", 1],
+      ["where is the person", 1],
+      ["when was the photo taken", 1],
+      ["what is the man doing", 1],
+      ["where is the man", 1],
+      ["what is behind the person", 1]
+    ],
+    "context": [
+      "a motorcycle parked on the street",
+      "a man wearing a green shirt"
+    ]
+  },
+  {
+    "object_category": "field",
+    "images": [
+      {
+        "VG_image_id": "2359522",
+        "VG_object_id": "3538289",
+        "bbox": [0, 80, 499, 241],
+        "image": "data/images/2359522.jpg"
+      },
+      {
+        "VG_image_id": "2356409",
+        "VG_object_id": "2551409",
+        "bbox": [11, 3, 499, 392],
+        "image": "data/images/2356409.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many people are the the field", 2],
+      ["how many people are there in the field", 2]
+    ],
+    "context": ["a baseball game", "a baseball player"]
+  },
+  {
+    "object_category": "man",
+    "images": [
+      {
+        "VG_image_id": "2408098",
+        "VG_object_id": "268288",
+        "bbox": [386, 122, 499, 369],
+        "image": "data/images/2408098.jpg"
+      },
+      {
+        "VG_image_id": "2409611",
+        "VG_object_id": "1088271",
+        "bbox": [84, 1, 499, 333],
+        "image": "data/images/2409611.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many people are there", 1],
+      ["Where is the man", 1],
+      ["what is the persion wearing", 1]
+    ],
+    "context": ["people in a restaurant", "man wearing a green robe"]
+  },
+  {
+    "object_category": "umbrella",
+    "images": [
+      {
+        "VG_image_id": "2384396",
+        "VG_object_id": "1309934",
+        "bbox": [133, 47, 445, 181],
+        "image": "data/images/2384396.jpg"
+      },
+      {
+        "VG_image_id": "2365537",
+        "VG_object_id": "633430",
+        "bbox": [99, 104, 211, 155],
+        "image": "data/images/2365537.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the umbrella", 1],
+      ["what is in the background", 1],
+      ["where is the umbrella", 1],
+      ["what pattern is on the umbrella", 1],
+      ["what is the man doing", 1],
+      ["what is on the man's head", 1]
+    ],
+    "context": ["a man in a raincoat", "a man sitting at a table"]
+  },
+  {
+    "object_category": "bus",
+    "images": [
+      {
+        "VG_image_id": "2351516",
+        "VG_object_id": "2137505",
+        "bbox": [26, 187, 154, 302],
+        "image": "data/images/2351516.jpg"
+      },
+      {
+        "VG_image_id": "2413823",
+        "VG_object_id": "165564",
+        "bbox": [66, 210, 156, 347],
+        "image": "data/images/2413823.jpg"
+      }
+    ],
+    "questions_with_scores": [["what color is the bus", 2]],
+    "context": [
+      "a group of people standing around a bus",
+      "a long line of buses"
+    ]
+  },
+  {
+    "object_category": "horse",
+    "images": [
+      {
+        "VG_image_id": "2388132",
+        "VG_object_id": "3829639",
+        "bbox": [178, 134, 269, 259],
+        "image": "data/images/2388132.jpg"
+      },
+      {
+        "VG_image_id": "2366866",
+        "VG_object_id": "753428",
+        "bbox": [308, 142, 497, 274],
+        "image": "data/images/2366866.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["How many people are there", 1],
+      ["How many horses are there", 1],
+      ["what color is the ground", 1],
+      ["what is the ground covered with", 1],
+      ["what color are the person's trousers", 1],
+      ["what color is the background", 1]
+    ],
+    "context": ["a cloudy blue sky", "two people riding horses"]
+  },
+  {
+    "object_category": "rug",
+    "images": [
+      {
+        "VG_image_id": "2323784",
+        "VG_object_id": "2755898",
+        "bbox": [2, 234, 349, 374],
+        "image": "data/images/2323784.jpg"
+      },
+      {
+        "VG_image_id": "2330759",
+        "VG_object_id": "3183358",
+        "bbox": [111, 188, 456, 285],
+        "image": "data/images/2330759.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the wall", 2],
+      ["what type of flooring is shown", 1]
+    ],
+    "context": [
+      "a cat sitting on a rug in a room",
+      "a group of people sitting in a living room"
+    ]
+  },
+  {
+    "object_category": "bus",
+    "images": [
+      {
+        "VG_image_id": "2409053",
+        "VG_object_id": "363940",
+        "bbox": [44, 104, 446, 265],
+        "image": "data/images/2409053.jpg"
+      },
+      {
+        "VG_image_id": "2413802",
+        "VG_object_id": "165940",
+        "bbox": [85, 28, 356, 298],
+        "image": "data/images/2413802.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the bus", 2],
+      ["how many decks does the bus have", 1]
+    ],
+    "context": ["a bus on the road", "a red double decker bus"]
+  },
+  {
+    "object_category": "shirt",
+    "images": [
+      {
+        "VG_image_id": "2335017",
+        "VG_object_id": "3358882",
+        "bbox": [97, 275, 184, 381],
+        "image": "data/images/2335017.jpg"
+      },
+      {
+        "VG_image_id": "2388900",
+        "VG_object_id": "669891",
+        "bbox": [321, 118, 450, 323],
+        "image": "data/images/2388900.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["who is wearing the shirt", 1],
+      ["what gender is the person", 1],
+      ["what is the persion doing", 1],
+      ["where is the person", 1],
+      ["what is the gender of the person", 1],
+      ["what is the persion wearing", 1],
+      ["where was this photo taken", 1],
+      ["who is in the photo", 1],
+      ["where is the picture taken", 1],
+      ["what is the man doing", 1]
+    ],
+    "context": ["a woman sitting on a bench", "a man sitting on a couch"]
+  },
+  {
+    "object_category": "man",
+    "images": [
+      {
+        "VG_image_id": "2412713",
+        "VG_object_id": "1618170",
+        "bbox": [110, 165, 263, 486],
+        "image": "data/images/2412713.jpg"
+      },
+      {
+        "VG_image_id": "2363604",
+        "VG_object_id": "2406000",
+        "bbox": [158, 139, 213, 204],
+        "image": "data/images/2363604.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the shirt", 2],
+      ["where is the photo taken", 2],
+      ["what are the people doing", 1],
+      ["where is the man", 1],
+      ["what is in the man's hand", 1]
+    ],
+    "context": ["a boy holding a bat", "a basketball court"]
+  },
+  {
+    "object_category": "girl",
+    "images": [
+      {
+        "VG_image_id": "2366605",
+        "VG_object_id": "3878151",
+        "bbox": [332, 12, 484, 346],
+        "image": "data/images/2366605.jpg"
+      },
+      {
+        "VG_image_id": "2330966",
+        "VG_object_id": "3680546",
+        "bbox": [11, 50, 265, 498],
+        "image": "data/images/2330966.jpg"
+      }
+    ],
+    "questions_with_scores": [["what is the girl doing", 1]],
+    "context": ["a child standing on a blue tarp", "a girl eating a hot dog"]
+  },
+  {
+    "object_category": "chair",
+    "images": [
+      {
+        "VG_image_id": "2415834",
+        "VG_object_id": "3082040",
+        "bbox": [113, 204, 292, 319],
+        "image": "data/images/2415834.jpg"
+      },
+      {
+        "VG_image_id": "2348163",
+        "VG_object_id": "884396",
+        "bbox": [216, 53, 328, 202],
+        "image": "data/images/2348163.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many people are there on the chair", 2],
+      ["where is the chair", 2],
+      ["what is on the chair", 2],
+      ["how many people are there in the picture", 2],
+      ["what color is the chair", 1],
+      ["What is above the chair", 1],
+      ["who is in the photo", 1],
+      ["where was the photo taken", 1],
+      ["what is in the background", 1]
+    ],
+    "context": ["a white umbrella", "a man riding an elephant"]
+  },
+  {
+    "object_category": "table",
+    "images": [
+      {
+        "VG_image_id": "2377110",
+        "VG_object_id": "1949419",
+        "bbox": [35, 265, 496, 364],
+        "image": "data/images/2377110.jpg"
+      },
+      {
+        "VG_image_id": "2377743",
+        "VG_object_id": "1897299",
+        "bbox": [0, 285, 499, 372],
+        "image": "data/images/2377743.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is on the table", 1],
+      ["how many cups are there", 1],
+      ["where is the table", 1],
+      ["where was the photo taken", 1],
+      ["what is in the room", 1],
+      ["what is the food on the tray", 1]
+    ],
+    "context": [
+      "a red table with a black lamp and a red table cloth",
+      "three children eating pizza"
+    ]
+  },
+  {
+    "object_category": "person",
+    "images": [
+      {
+        "VG_image_id": "2330461",
+        "VG_object_id": "3131922",
+        "bbox": [164, 70, 243, 271],
+        "image": "data/images/2330461.jpg"
+      },
+      {
+        "VG_image_id": "2378098",
+        "VG_object_id": "3195918",
+        "bbox": [66, 82, 180, 297],
+        "image": "data/images/2378098.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["What color is man's shirt", 2],
+      ["what is the person doing", 1],
+      ["where is the person", 1],
+      ["what is on the person's head", 1],
+      ["how many people are there", 1],
+      ["what is the person holding", 1],
+      ["where is the picture taken", 1]
+    ],
+    "context": ["a man in a room", "a man on a motorcycle"]
+  },
+  {
+    "object_category": "laptop",
+    "images": [
+      {
+        "VG_image_id": "2323462",
+        "VG_object_id": "3101532",
+        "bbox": [100, 132, 295, 324],
+        "image": "data/images/2323462.jpg"
+      },
+      {
+        "VG_image_id": "2354699",
+        "VG_object_id": "3776496",
+        "bbox": [105, 233, 229, 333],
+        "image": "data/images/2354699.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the table", 1],
+      ["How many people are there", 1]
+    ],
+    "context": [
+      "a laptop computer sitting on a desk with a mouse",
+      "a man sitting in a ham chair"
+    ]
+  },
+  {
+    "object_category": "male_child",
+    "images": [
+      {
+        "VG_image_id": "2332973",
+        "VG_object_id": "3099179",
+        "bbox": [19, 29, 149, 370],
+        "image": "data/images/2332973.jpg"
+      },
+      {
+        "VG_image_id": "2339686",
+        "VG_object_id": "2021604",
+        "bbox": [79, 79, 251, 326],
+        "image": "data/images/2339686.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the ground", 2],
+      ["what is the man doing", 1],
+      ["what color is the man's shirt", 1],
+      ["what is the ground covered with", 1],
+      ["how many people are there", 1],
+      ["where is the man", 1],
+      ["what is in front of the child", 1],
+      ["what color is the clothes", 1],
+      ["what color are the persons' trousers", 1],
+      ["what game is being played", 1]
+    ],
+    "context": [
+      "a group of people playing tennis on a tennis court",
+      "a group of young boys playing soccer on a field"
+    ]
+  },
+  {
+    "object_category": "land",
+    "images": [
+      {
+        "VG_image_id": "2374025",
+        "VG_object_id": "1796090",
+        "bbox": [1, 60, 499, 330],
+        "image": "data/images/2374025.jpg"
+      },
+      {
+        "VG_image_id": "2357161",
+        "VG_object_id": "2424351",
+        "bbox": [7, 166, 499, 367],
+        "image": "data/images/2357161.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["How many people are there", 1],
+      ["what is in front of the trees", 1],
+      ["how many animals are there on the land", 1]
+    ],
+    "context": ["a zebra standing in a zoo", "a dirt covered field"]
+  },
+  {
+    "object_category": "land",
+    "images": [
+      {
+        "VG_image_id": "2388733",
+        "VG_object_id": "1267068",
+        "bbox": [1, 199, 497, 374],
+        "image": "data/images/2388733.jpg"
+      },
+      {
+        "VG_image_id": "2318070",
+        "VG_object_id": "3121407",
+        "bbox": [234, 240, 331, 367],
+        "image": "data/images/2318070.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["What is land made of", 2],
+      ["What color is the land", 2],
+      ["What is on the land", 1],
+      ["what is the floor made of", 1],
+      ["what is the shadow of", 1],
+      ["what is covering the ground", 1],
+      ["what is in the background", 1]
+    ],
+    "context": [
+      "a car parked in the grass",
+      "a little boy is standing on a skateboard"
+    ]
+  },
+  {
+    "object_category": "man",
+    "images": [
+      {
+        "VG_image_id": "2322280",
+        "VG_object_id": "3259194",
+        "bbox": [196, 115, 373, 412],
+        "image": "data/images/2322280.jpg"
+      },
+      {
+        "VG_image_id": "2373899",
+        "VG_object_id": "2310477",
+        "bbox": [212, 132, 459, 331],
+        "image": "data/images/2373899.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many people are there", 1],
+      ["what sport is the man playing", 1],
+      ["where is the man", 1],
+      ["what is the man holding", 1],
+      ["WHat is man doing", 1],
+      ["what kind of shoes is the man wearing", 1],
+      ["who is in the photo", 1],
+      ["what is on the man's head", 1],
+      ["what sport is it", 1],
+      ["where is the photo taken", 1],
+      ["what is the man wearing on his head", 1]
+    ],
+    "context": [
+      "a man playing tennis",
+      "a baseball game is being played in a stadium"
+    ]
+  },
+  {
+    "object_category": "car",
+    "images": [
+      {
+        "VG_image_id": "2417349",
+        "VG_object_id": "2886034",
+        "bbox": [238, 247, 362, 402],
+        "image": "data/images/2417349.jpg"
+      },
+      {
+        "VG_image_id": "2322614",
+        "VG_object_id": "3408373",
+        "bbox": [285, 236, 421, 341],
+        "image": "data/images/2322614.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what time is it", 2],
+      ["how many people are there", 1],
+      ["what color is the background", 1],
+      ["when was the photo taken", 1]
+    ],
+    "context": [
+      "a group of people walking down a street at night",
+      "a clear blue sky"
+    ]
+  },
+  {
+    "object_category": "kitchen",
+    "images": [
+      {
+        "VG_image_id": "2387646",
+        "VG_object_id": "511934",
+        "bbox": [1, 3, 497, 373],
+        "image": "data/images/2387646.jpg"
+      },
+      {
+        "VG_image_id": "2330679",
+        "VG_object_id": "3719581",
+        "bbox": [13, 24, 482, 361],
+        "image": "data/images/2330679.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the wall", 2],
+      ["what is on the counter", 1],
+      ["what color is the counter", 1],
+      ["who is in the photo", 1]
+    ],
+    "context": [
+      "a girl standing in a kitchen",
+      "a kitchen with a sink and a refrigerator"
+    ]
+  },
+  {
+    "object_category": "bus",
+    "images": [
+      {
+        "VG_image_id": "2337319",
+        "VG_object_id": "958173",
+        "bbox": [134, 52, 454, 214],
+        "image": "data/images/2337319.jpg"
+      },
+      {
+        "VG_image_id": "2410284",
+        "VG_object_id": "221418",
+        "bbox": [73, 125, 375, 291],
+        "image": "data/images/2410284.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many buses are there", 2],
+      ["which two colors are on the bus", 2],
+      ["where are the buses", 1],
+      ["what color is the bus", 1],
+      ["where is this scene", 1]
+    ],
+    "context": ["a field of grass", "a bus parked in a parking"]
+  },
+  {
+    "object_category": "elephant",
+    "images": [
+      {
+        "VG_image_id": "2366964",
+        "VG_object_id": "625029",
+        "bbox": [104, 116, 451, 278],
+        "image": "data/images/2366964.jpg"
+      },
+      {
+        "VG_image_id": "2368283",
+        "VG_object_id": "747081",
+        "bbox": [50, 64, 298, 251],
+        "image": "data/images/2368283.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the elephants", 2],
+      ["What is on the elephant", 2],
+      ["what is behind the elephants", 1],
+      ["how many people are there", 1],
+      ["what is the ground covered with", 1]
+    ],
+    "context": ["two elephants standing on a rock", "a man riding an elephant"]
+  },
+  {
+    "object_category": "shirt",
+    "images": [
+      {
+        "VG_image_id": "2415990",
+        "VG_object_id": "2789964",
+        "bbox": [196, 171, 326, 314],
+        "image": "data/images/2415990.jpg"
+      },
+      {
+        "VG_image_id": "2373797",
+        "VG_object_id": "2575330",
+        "bbox": [276, 211, 366, 318],
+        "image": "data/images/2373797.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the shirt", 2],
+      ["what is the persion wearing", 1]
+    ],
+    "context": [
+      "a woman sitting at a desk",
+      "a group of girls cooking in a kitchen"
+    ]
+  },
+  {
+    "object_category": "basket",
+    "images": [
+      {
+        "VG_image_id": "2410144",
+        "VG_object_id": "225016",
+        "bbox": [40, 299, 144, 352],
+        "image": "data/images/2410144.jpg"
+      },
+      {
+        "VG_image_id": "2354990",
+        "VG_object_id": "3505373",
+        "bbox": [111, 263, 329, 490],
+        "image": "data/images/2354990.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is in the background", 2],
+      ["how many people are there", 1],
+      ["Where is the basket", 1]
+    ],
+    "context": ["a man in a kitchen", "a man carrying a basket of bananas"]
+  },
+  {
+    "object_category": "building",
+    "images": [
+      {
+        "VG_image_id": "2384506",
+        "VG_object_id": "691624",
+        "bbox": [130, 138, 459, 262],
+        "image": "data/images/2384506.jpg"
+      },
+      {
+        "VG_image_id": "2409579",
+        "VG_object_id": "238722",
+        "bbox": [10, 12, 375, 156],
+        "image": "data/images/2409579.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["What color is the building", 1],
+      ["how many people are there in the picture", 1],
+      ["what is on the side of the building", 1],
+      ["where was the photo taken", 1]
+    ],
+    "context": [
+      "a man walking on a beach with a surfboard",
+      "a group of people are boarding a plane"
+    ]
+  },
+  {
+    "object_category": "laptop",
+    "images": [
+      {
+        "VG_image_id": "2324771",
+        "VG_object_id": "3427644",
+        "bbox": [279, 91, 469, 239],
+        "image": "data/images/2324771.jpg"
+      },
+      {
+        "VG_image_id": "2343942",
+        "VG_object_id": "3511170",
+        "bbox": [238, 250, 378, 350],
+        "image": "data/images/2343942.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many people are there", 1],
+      ["where is the computer", 1],
+      ["what color is the screen", 1],
+      ["what is on the table", 1]
+    ],
+    "context": [
+      "a woman sitting on a couch with a laptop",
+      "a woman is taking a picture of a man in a suit"
+    ]
+  },
+  {
+    "object_category": "woman",
+    "images": [
+      {
+        "VG_image_id": "2351103",
+        "VG_object_id": "863083",
+        "bbox": [77, 96, 196, 335],
+        "image": "data/images/2351103.jpg"
+      },
+      {
+        "VG_image_id": "2400586",
+        "VG_object_id": "1187274",
+        "bbox": [19, 61, 91, 273],
+        "image": "data/images/2400586.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is the woman holding", 2],
+      ["where is the woman", 1],
+      ["how many people are there", 1],
+      ["what is the woman doing", 1],
+      ["What is woman holding", 1],
+      ["what is the persion standing on", 1]
+    ],
+    "context": [
+      "a woman and a child walking down a sidewalk",
+      "a group of children"
+    ]
+  },
+  {
+    "object_category": "car",
+    "images": [
+      {
+        "VG_image_id": "2415730",
+        "VG_object_id": "3392611",
+        "bbox": [404, 248, 499, 290],
+        "image": "data/images/2415730.jpg"
+      },
+      {
+        "VG_image_id": "2416663",
+        "VG_object_id": "2879806",
+        "bbox": [3, 264, 126, 347],
+        "image": "data/images/2416663.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["where is the car", 1],
+      ["what is in front of the cars", 1]
+    ],
+    "context": ["a tree with no leaves", "a blue sky with white clouds"]
+  },
+  {
+    "object_category": "counter",
+    "images": [
+      {
+        "VG_image_id": "2401563",
+        "VG_object_id": "659386",
+        "bbox": [80, 143, 499, 276],
+        "image": "data/images/2401563.jpg"
+      },
+      {
+        "VG_image_id": "2345133",
+        "VG_object_id": "2066895",
+        "bbox": [0, 261, 499, 373],
+        "image": "data/images/2345133.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["where is the photo taken", 1],
+      ["what room is this", 1],
+      ["how many sinks are there", 1]
+    ],
+    "context": [
+      "a white microwave cabinet",
+      "a bathroom with two sinks and a mirror"
+    ]
+  },
+  {
+    "object_category": "food",
+    "images": [
+      {
+        "VG_image_id": "2366610",
+        "VG_object_id": "2074382",
+        "bbox": [100, 356, 259, 460],
+        "image": "data/images/2366610.jpg"
+      },
+      {
+        "VG_image_id": "2322906",
+        "VG_object_id": "2930220",
+        "bbox": [85, 159, 300, 299],
+        "image": "data/images/2322906.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["how many people are there", 2],
+      ["what color is the table", 1],
+      ["What is the background of image", 1],
+      ["what is the shape of the plate", 1]
+    ],
+    "context": ["a man cutting pizza", "a bowl of fruit"]
+  },
+  {
+    "object_category": "man",
+    "images": [
+      {
+        "VG_image_id": "2361240",
+        "VG_object_id": "2195575",
+        "bbox": [1, 0, 425, 500],
+        "image": "data/images/2361240.jpg"
+      },
+      {
+        "VG_image_id": "2397708",
+        "VG_object_id": "431433",
+        "bbox": [276, 68, 452, 245],
+        "image": "data/images/2397708.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["What color is the man's shirt", 1],
+      ["Where is the man", 1],
+      ["how many people are there", 1],
+      ["what is the man holding", 1],
+      ["what is behind the man", 1]
+    ],
+    "context": ["a man holding a cow", "a man and woman sitting on a bench"]
+  },
+  {
+    "object_category": "food",
+    "images": [
+      {
+        "VG_image_id": "2372702",
+        "VG_object_id": "1863284",
+        "bbox": [83, 294, 311, 419],
+        "image": "data/images/2372702.jpg"
+      },
+      {
+        "VG_image_id": "2400060",
+        "VG_object_id": "411747",
+        "bbox": [2, 168, 498, 412],
+        "image": "data/images/2400060.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the plate", 1],
+      ["what color is the table", 1],
+      ["what is the table made of", 1],
+      ["what shape is the plate", 1]
+    ],
+    "context": [
+      "a table with a plate of food and a glass of wine",
+      "a table with plates of food and drinks"
+    ]
+  },
+  {
+    "object_category": "plate",
+    "images": [
+      {
+        "VG_image_id": "2328962",
+        "VG_object_id": "3346052",
+        "bbox": [3, 0, 498, 499],
+        "image": "data/images/2328962.jpg"
+      },
+      {
+        "VG_image_id": "2398227",
+        "VG_object_id": "1181455",
+        "bbox": [5, 231, 332, 499],
+        "image": "data/images/2398227.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is on the plate", 1],
+      ["what is beside the plate", 1],
+      ["What food is on the plate", 1]
+    ],
+    "context": [
+      "a piece of cake on a plate on a carpet",
+      "a white plate with a spoon"
+    ]
+  },
+  {
+    "object_category": "man",
+    "images": [
+      {
+        "VG_image_id": "2405179",
+        "VG_object_id": "334369",
+        "bbox": [321, 135, 444, 284],
+        "image": "data/images/2405179.jpg"
+      },
+      {
+        "VG_image_id": "2344502",
+        "VG_object_id": "2121717",
+        "bbox": [76, 80, 133, 230],
+        "image": "data/images/2344502.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is the man doing", 2],
+      ["where is the photo taken", 2],
+      ["how many people are there", 1],
+      ["WHat is man wearing on his head", 1],
+      ["what color is the man's shirt", 1],
+      ["where is the person", 1],
+      ["who is wearing a black shirt", 1]
+    ],
+    "context": ["a man kneeling down", "a group of people sitting in a room"]
+  },
+  {
+    "object_category": "man",
+    "images": [
+      {
+        "VG_image_id": "2350417",
+        "VG_object_id": "1744156",
+        "bbox": [3, 80, 347, 496],
+        "image": "data/images/2350417.jpg"
+      },
+      {
+        "VG_image_id": "2362997",
+        "VG_object_id": "2098359",
+        "bbox": [223, 91, 313, 201],
+        "image": "data/images/2362997.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is the man doing", 2],
+      ["what color is the man's shirt", 2],
+      ["what is the ground covered with", 1],
+      ["what gesture is the man", 1],
+      ["what is the man wearing", 1],
+      ["what is on the man's face", 1]
+    ],
+    "context": ["a man with a beard", "a cloudy sky"]
+  },
+  {
+    "object_category": "court",
+    "images": [
+      {
+        "VG_image_id": "2390186",
+        "VG_object_id": "3828222",
+        "bbox": [5, 190, 481, 340],
+        "image": "data/images/2390186.jpg"
+      },
+      {
+        "VG_image_id": "2350644",
+        "VG_object_id": "866419",
+        "bbox": [1, 247, 374, 500],
+        "image": "data/images/2350644.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the court ground", 2],
+      ["what color is the ground", 2],
+      ["what color is the player's shirt", 1],
+      ["What is the color of ground", 1],
+      ["what is the main color of the court", 1],
+      ["what is the ground covered with", 1]
+    ],
+    "context": ["a man playing tennis", "a man playing tennis"]
+  },
+  {
+    "object_category": "dog",
+    "images": [
+      {
+        "VG_image_id": "2409094",
+        "VG_object_id": "249136",
+        "bbox": [47, 231, 331, 432],
+        "image": "data/images/2409094.jpg"
+      },
+      {
+        "VG_image_id": "2390135",
+        "VG_object_id": "1253509",
+        "bbox": [1, 1, 474, 290],
+        "image": "data/images/2390135.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["where is the dog", 2],
+      ["what color is the dog", 1],
+      ["what gesture is the dog", 1]
+    ],
+    "context": ["a dog on a leash", "a dog laying on a bed"]
+  },
+  {
+    "object_category": "train",
+    "images": [
+      {
+        "VG_image_id": "2413705",
+        "VG_object_id": "167904",
+        "bbox": [96, 81, 356, 247],
+        "image": "data/images/2413705.jpg"
+      },
+      {
+        "VG_image_id": "2377361",
+        "VG_object_id": "565970",
+        "bbox": [114, 101, 478, 328],
+        "image": "data/images/2377361.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the train", 2],
+      ["where is the photo taken", 1],
+      ["what is on the side of the train", 1]
+    ],
+    "context": ["a train on the tracks", "a red train"]
+  },
+  {
+    "object_category": "trouser",
+    "images": [
+      {
+        "VG_image_id": "2387411",
+        "VG_object_id": "678051",
+        "bbox": [154, 249, 286, 381],
+        "image": "data/images/2387411.jpg"
+      },
+      {
+        "VG_image_id": "2347239",
+        "VG_object_id": "3135497",
+        "bbox": [132, 328, 213, 419],
+        "image": "data/images/2347239.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the trousers", 2],
+      ["what color is the person's coat", 2],
+      ["what is the person holding", 1]
+    ],
+    "context": [
+      "a young girl skiing down a hill",
+      "a person skiing down a hill"
+    ]
+  },
+  {
+    "object_category": "person",
+    "images": [
+      {
+        "VG_image_id": "2348962",
+        "VG_object_id": "1764684",
+        "bbox": [141, 290, 227, 498],
+        "image": "data/images/2348962.jpg"
+      },
+      {
+        "VG_image_id": "2318272",
+        "VG_object_id": "3482010",
+        "bbox": [129, 87, 208, 221],
+        "image": "data/images/2318272.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what is the person doing", 2],
+      ["what color are the person's clothes", 1],
+      ["where is the person", 1],
+      ["what is in the distance", 1],
+      ["What is person looking at", 1],
+      ["how many people are in the photo", 1]
+    ],
+    "context": ["a black metal fence", "two men on horses"]
+  },
+  {
+    "object_category": "book",
+    "images": [
+      {
+        "VG_image_id": "2376421",
+        "VG_object_id": "2611180",
+        "bbox": [163, 10, 278, 115],
+        "image": "data/images/2376421.jpg"
+      },
+      {
+        "VG_image_id": "2355082",
+        "VG_object_id": "2490786",
+        "bbox": [403, 193, 497, 280],
+        "image": "data/images/2355082.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the book", 1],
+      ["what is next to the laptop", 1]
+    ],
+    "context": [
+      "a cat laying on a laptop",
+      "a laptop computer sitting on a wooden table"
+    ]
+  },
+  {
+    "object_category": "zebra",
+    "images": [
+      {
+        "VG_image_id": "2365477",
+        "VG_object_id": "633940",
+        "bbox": [265, 51, 398, 306],
+        "image": "data/images/2365477.jpg"
+      },
+      {
+        "VG_image_id": "2315850",
+        "VG_object_id": "2719997",
+        "bbox": [3, 95, 298, 362],
+        "image": "data/images/2315850.jpg"
+      }
+    ],
+    "questions_with_scores": [
+      ["what color is the ground", 2],
+      ["what is the zebra doing", 2],
+      ["what is the ground covered with", 1]
+    ],
+    "context": ["two zebras standing in the dirt", "the zebra is eating"]
+  }
+]
